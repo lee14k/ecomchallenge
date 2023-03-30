@@ -1,0 +1,9 @@
+.images {
+    width:100px;
+    height:auto;
+}
+
+.flexy {
+    display: flex;
+    flex-direction: column;
+}
